@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "https://global-uploads.webflow.com/5ca5fe687e34be0992df1fbe/623ac5ee42286267c0d05285_NABAIJI%20PLAQUETTE%20900%20QUICK%27IN%20L%20NOIRE%20ROUGE___%20-%20003%20---%20Expires%20on%2009-03-2026-min.jpg",
+        "name": "Front Crawl (Freestyle)",
+        "time": 30,
+        "details": "Front crawl, also known as freestyle swimming, is the fastest and most efficient kind of swimming in which a person swims with his body straight and travels forward in the water."
+    },
+    {
+        "id": 2,
+        "img": "https://global-uploads.webflow.com/5ca5fe687e34be0992df1fbe/623ac5e14fb1afa6b4a131f9_NABAIJI%20LUNETTES%20500%20TURN%20L%20FUME%20NOIR%20JAUNE%20-%20142%20---%20Expires%20on%2024-01-2026-min.jpg",
+        "name": "Backstroke",
+        "time": 45,
+        "details": "Backstroke, also known as Back Crawl, is the polar opposite of Front Crawl (Freestyle). Harry Hebner popularised the backstroke. In the 1990 Olympics in St. Louis, backstroke was recognised as a competitive swimming event. "
+    },
+    {
+        "id": 3,
+        "img": "https://global-uploads.webflow.com/5ca5fe687e34be0992df1fbe/623ac6284228629c2cd06fe4_NABAIJI%20SLIP%20900%20YOKE%20BLEU%20BLANC%20IT___%20-%20012%20---%20Expires%20on%2002-12-2025-min.jpg",
+        "name": "Breast stroke",
+        "time": 50,
+        "details": "It may come as a shock to you, but what I'm going to tell you is real. Among all the different types of swimming kicks and styles, breaststroke is the most popular. A swimmer's body faces down into the water while his head is up. As a result, breathing is simple. Out of all the swimming strokes, many beginners and casual swimmers prefer breaststroke. "
+    },
+    {
+        "id": 4,
+        "img": "https://global-uploads.webflow.com/5ca5fe687e34be0992df1fbe/623aca3efc10ffb21dec063f_exp_ad_aqua_2j2a4339.jpg%20-%20000%20---%20Expires%20on%2020-10-2024-min.jpg",
+        "name": "Butterfly Stroke",
+        "time": 40,
+        "details": "The Butterfly stroke is the newest of all types of swimming kicks and styles. It began as a spin-off of breaststroke in 1933. Sydney Cavil, an Australian swimmer, is credited with popularising this stroke. Due to both arms and legs' simultaneous pull/push, the Butterfly stroke is quicker at the peak stage than Freestyle."
+    },
+    {
+        "id": 5,
+        "img": "https://global-uploads.webflow.com/5ca5fe687e34be0992df1fbe/623acad377a99f45bb90e80e_exp_ad_aqua_020a3068.jpg%20-%20000%20---%20Expires%20on%2020-10-2024-min.jpg",
+        "name": "Sidestroke",
+        "time": 35,
+        "details": "The Sidestroke method is accomplished when the swimmer's body leans on one side while motioning with asymmetric arm and leg motions. It is typically utilised for long-distance swimming. Swimmers have been observed utilising this method to relax after a long hour of swimming. Even better, the sidestroke is employed as a life-saving technique with caution."
+    },
+    {
+        "id": 6,
+        "img": "https://global-uploads.webflow.com/5ca5fe687e34be0992df1fbe/623ae8878e458153d069a89d_SUBEA%20MASQUE%20EASYBREATH%20540%20FT%20BLEU%20JUNGLE%20PE22%20AH22%20-%20001%20---%20Expires%20on%2028-12-2025-min.jpg",
+        "name": "Snorkeling",
+        "time": 25,
+        "details": "Snorkeling is a type of swimming when a person is fully-clothed. It is more of a leisure sport. A diving mask is required, including a tube (snorkel) and frequently paired with a set of fins. The mask enables clear eyesight underwater, the snorkel aids in breathing when submerged in water, and the swim fins allow for easier movement."
+    }
+]

@@ -1,0 +1,10 @@
+.AandQ {
+    display: inline;
+    text-align: center;
+}
+
+.AandQ-Item {
+    background-color: bisque;
+    margin: 5%;
+    border-radius: 10px;
+}

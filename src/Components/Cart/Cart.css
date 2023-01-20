@@ -1,0 +1,48 @@
+.cartItem {
+    background-color: rgb(179, 210, 250);
+    box-shadow: rgb(156, 163, 163) 5px 5px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 7px;
+    position: relative;
+}
+
+.cardImage {
+    width: 280px;
+    height: 186px;
+    border-radius: 10px;
+}
+
+.card-name {
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.card-info {
+    padding-bottom: 50px;
+}
+
+.time {
+    text-align: left;
+    font-size: 22px;
+}
+
+.card-button {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    padding: 15px;
+    margin-left: 5rem;
+    font-size: 18px;
+    font-weight: 700;
+    border: none;
+    background-color: rgb(21, 0, 253);
+    color: aliceblue;
+    border-radius: 15px;
+}
+
+.card-button:hover {
+    background-color: rgb(87, 1, 100);
+}
